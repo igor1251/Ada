@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+D:\Libraries\Documents\GitHub\Ada\Projects\Hello\hello.gpr
+20220209055558 39103cfb4b5b48b083b32a863a6c140f
+[BOUND OBJECT FILES]
+D:\Libraries\Documents\GitHub\Ada\Projects\Hello\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LD:\Libraries\Documents\GitHub\Ada\Projects\Hello\obj\
+-LD:\Libraries\Documents\GitHub\Ada\Projects\Hello\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
