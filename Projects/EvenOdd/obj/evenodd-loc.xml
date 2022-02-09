@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\Libraries\Documents\GitHub\Ada\Projects\EvenOdd\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 12" >
+      <vfs_project />
+      <vfs_file>D:\Libraries\Documents\GitHub\Ada\Projects\EvenOdd\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 3" line=" 16" >
+      <vfs_project />
+      <vfs_file>D:\Libraries\Documents\GitHub\Ada\Projects\EvenOdd\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 15" >
+      <vfs_project />
+      <vfs_file>D:\Libraries\Documents\GitHub\Ada\Projects\EvenOdd\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 13" line=" 16" >
+      <vfs_project />
+      <vfs_file>D:\Libraries\Documents\GitHub\Ada\Projects\EvenOdd\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

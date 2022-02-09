@@ -1,0 +1,9 @@
+menu.adb:10:04: error: no candidate interpretations match the actuals:
+menu.adb:10:04: error: missing argument for parameter "Item" in call to "Get" declared at a-textio.ads:449
+menu.adb:10:04: error: missing argument for parameter "Item" in call to "Get" declared at a-textio.ads:376
+menu.adb:10:08: error: expected type "Standard.String"
+menu.adb:10:08: error: found type "Standard.Integer"
+menu.adb:10:08: error:   ==> in call to "Get" at a-textio.ads:452
+menu.adb:10:08: error:   ==> in call to "Get" at a-textio.ads:379
+menu.adb:16:10: warning: unreachable code [enabled by default]
+menu.adb:16:10: error: cannot exit from program unit or accept statement
